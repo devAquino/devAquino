@@ -1,7 +1,7 @@
 ### Hi, I'm Reginaldo Aquino!👋
 
-I living in Brazil 🇧🇷.
-Information technology student.
+I living in Brazil 🇧🇷. 
+Information technology student. 
 Focus on learning python programming language and its technologies.
 
 # Find me
