@@ -5,4 +5,4 @@ Information technology student.
 Focus on learning python programming language and its technologies.  
 
 ### Find me  
-[Linked in](www.linkedin.com/in/python4us)
+[Linked in](https://www.linkedin.com/feed/?trk=nav_logo)
